@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodes": "^0.1.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "javascript-fs-pt-41",
+  "description": "Ejercicios js",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
